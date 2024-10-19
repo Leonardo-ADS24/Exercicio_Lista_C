@@ -1,4 +1,5 @@
-//Cadastro de alunos em uma escola
+//3. Cadastro de alunos em uma escola
+
 #include <stdio.h>
 #include <string.h>
 

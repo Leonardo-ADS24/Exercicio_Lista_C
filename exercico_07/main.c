@@ -1,3 +1,5 @@
+//7. Sistema de espera em um parque de diversões
+
 #include <stdio.h>
 #include <string.h>
 

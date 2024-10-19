@@ -1,4 +1,4 @@
-//Gerenciamento de pedido de uma lanchonete
+//1 . Gerenciamento de pedidos de uma lanchonete
 
 #include <stdio.h>
 #define MAX 1000

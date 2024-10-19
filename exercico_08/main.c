@@ -1,3 +1,5 @@
+//8. Registro de pontuação de jogadores em um campeonato
+
 #include <stdio.h>
 #include <string.h>
 
